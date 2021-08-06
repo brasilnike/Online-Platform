@@ -1,0 +1,131 @@
+C:\Users\Miru\Desktop\Online Platform\Online Platform\bin\Debug\Online Platform.exe.config
+C:\Users\Miru\Desktop\Online Platform\Online Platform\bin\Debug\Online Platform.exe
+C:\Users\Miru\Desktop\Online Platform\Online Platform\bin\Debug\Online Platform.pdb
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Online Platform.csprojAssemblyReference.cache
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\App.g.cs
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Online Platform_MarkupCompile.cache
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Online Platform_MarkupCompile.lref
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Online Platform.g.resources
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Online_Platform.Properties.Resources.resources
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Online Platform.csproj.GenerateResource.cache
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Online Platform.csproj.CoreCompileInputs.cache
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Online Platform.exe
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Online Platform.pdb
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\bin\Debug\Online Platform.exe.config
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\bin\Debug\Online Platform.exe
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\bin\Debug\Online Platform.pdb
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\AdminView.g.cs
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\TeacherView.g.cs
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\App.g.cs
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Online Platform_MarkupCompile.cache
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Online Platform_MarkupCompile.lref
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\AdminView.baml
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\TeacherView.baml
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Online Platform.g.resources
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Online_Platform.Properties.Resources.resources
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Online Platform.csproj.GenerateResource.cache
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Online Platform.csproj.CoreCompileInputs.cache
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Online Platform.exe
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Online Platform.pdb
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\LogIn.g.cs
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\LogIn.baml
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\StudentView.g.cs
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\StudentView.baml
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Online Platform.csproj.CopyComplete
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\TeacherAbsentees.g.cs
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\TeacherGrades.g.cs
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\TeacherSubject.g.cs
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\TeacherAbsentees.baml
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\TeacherGrades.baml
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\TeacherSubject.baml
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\TeacherAbsenteesMotivation.g.cs
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\TeacherPEViesualization.g.cs
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\TeacherAbsenteesMotivation.baml
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\TeacherPEViesualization.baml
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\AMDUsers.g.cs
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\AMDUsers.baml
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\Link_View.g.cs
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\Link_View.baml
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\Remove_Student.g.cs
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\Remove_Student.baml
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\Modify_Teacher.g.cs
+D:\Facultate\AN II - Semestru 2\Medii vizuale de programare\MVP\Online Platform\Online Platform\obj\Debug\Views\Modify_Teacher.baml
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Admin\AdminView.g.cs
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Admin\Link_View.g.cs
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\LogIn.g.cs
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Admin\Modify_Teacher.g.cs
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Admin\Remove_Student.g.cs
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Student\StudentView.g.cs
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Teacher\TeacherAbsentees.g.cs
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Teacher\TeacherGrades.g.cs
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Teacher\TeacherSubject.g.cs
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Teacher\TeacherView.g.cs
+C:\Users\Miru\Desktop\Online Platform\Online Platform\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Miru\Desktop\Online Platform\Online Platform\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Miru\Desktop\Online Platform\Online Platform\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Admin\AdminView.baml
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Admin\Link_View.baml
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\LogIn.baml
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Admin\Modify_Teacher.baml
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Admin\Remove_Student.baml
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Student\StudentView.baml
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Teacher\TeacherAbsentees.baml
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Teacher\TeacherGrades.baml
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Teacher\TeacherSubject.baml
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Teacher\TeacherView.baml
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Online Platform.csproj.CopyComplete
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\HeadTeacher\GradesVisualisation.g.cs
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\HeadTeacher\GradesVisualisation.baml
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\HeadTeacher\HDAbsentees.g.cs
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\HeadTeacher\HDAbsentees.baml
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Admin\EditUsers.g.cs
+C:\Users\Miru\Desktop\Online Platform\Online Platform\obj\Debug\Views\Admin\EditUsers.baml
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\bin\Debug\Online Platform.exe.config
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\bin\Debug\Online Platform.exe
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\bin\Debug\Online Platform.pdb
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Online Platform.csprojAssemblyReference.cache
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Admin\AdminView.g.cs
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Admin\EditUsers.g.cs
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Admin\Link_View.g.cs
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\LogIn.g.cs
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Admin\Modify_Teacher.g.cs
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Admin\Remove_Student.g.cs
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Student\StudentView.g.cs
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Teacher\TeacherAbsentees.g.cs
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\HeadTeacher\HDAbsentees.g.cs
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Teacher\TeacherGrades.g.cs
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\HeadTeacher\GradesVisualisation.g.cs
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Teacher\TeacherSubject.g.cs
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Teacher\TeacherView.g.cs
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\App.g.cs
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Online Platform_MarkupCompile.cache
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Online Platform_MarkupCompile.lref
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Admin\AdminView.baml
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Admin\EditUsers.baml
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Admin\Link_View.baml
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\LogIn.baml
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Admin\Modify_Teacher.baml
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Admin\Remove_Student.baml
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Student\StudentView.baml
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Teacher\TeacherAbsentees.baml
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\HeadTeacher\HDAbsentees.baml
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Teacher\TeacherGrades.baml
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\HeadTeacher\GradesVisualisation.baml
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Teacher\TeacherSubject.baml
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Views\Teacher\TeacherView.baml
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Online Platform.g.resources
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Online_Platform.Properties.Resources.resources
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Online Platform.csproj.GenerateResource.cache
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Online Platform.csproj.CoreCompileInputs.cache
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Online Platform.csproj.CopyComplete
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Online Platform.exe
+D:\Cursuri\Anul 2\Semestrul II\Medii Vizuale de Programare\Tema 3\Online Platform\Online Platform\obj\Debug\Online Platform.pdb
